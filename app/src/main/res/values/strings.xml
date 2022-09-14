@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string-array name="from">
+        <item>DEC</item>
+        <item>OCT</item>
+        <item>BIN</item>
+        <item>HEX</item>
+    </string-array>
+
+    <string-array name="to">
+        <item>BIN</item>
+        <item>OCT</item>
+        <item>DEC</item>
+        <item>HEX</item>
+    </string-array>
+</resources>
